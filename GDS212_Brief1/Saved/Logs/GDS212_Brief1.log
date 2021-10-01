@@ -4081,3 +4081,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.01-04.43.59:233][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2021.10.01-04.43.59:534][576]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
 [2021.10.01-04.43.59:534][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-04.45.18:782][887]LogContentBrowser: Attempting asset rename: MainGameUI -> MainMenuUI
+[2021.10.01-04.45.18:795][887]LogMetaData: Removing '/Game/UI/MainMenuUI.SKEL_MainMenuUI_C' ref from Metadata '/Game/UI/MainGameUI.PackageMetaData'
+[2021.10.01-04.45.18:795][887]LogMetaData: Removing '/Game/UI/MainMenuUI.MainMenuUI_C' ref from Metadata '/Game/UI/MainGameUI.PackageMetaData'
+[2021.10.01-04.45.18:795][887]LogMetaData: Removing '/Game/UI/MainMenuUI.MainMenuUI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/MainGameUI.PackageMetaData'
+[2021.10.01-04.45.18:795][887]LogMetaData: Removing '/Game/UI/MainMenuUI.MainMenuUI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/MainGameUI.PackageMetaData'
+[2021.10.01-04.45.18:795][887]LogMetaData: Removing '/Game/UI/MainMenuUI.MainMenuUI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/MainGameUI.PackageMetaData'
+[2021.10.01-04.45.18:795][887]LogMetaData: Removing '/Game/UI/MainMenuUI.SKEL_MainMenuUI_C:PreConstruct' ref from Metadata '/Game/UI/MainGameUI.PackageMetaData'
+[2021.10.01-04.45.18:795][887]LogMetaData: Removing '/Game/UI/MainMenuUI.SKEL_MainMenuUI_C:Construct' ref from Metadata '/Game/UI/MainGameUI.PackageMetaData'
+[2021.10.01-04.45.18:795][887]LogMetaData: Removing '/Game/UI/MainMenuUI.SKEL_MainMenuUI_C:Tick' ref from Metadata '/Game/UI/MainGameUI.PackageMetaData'
+[2021.10.01-04.45.18:828][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenuUI" FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/UI/MainMenuUI.uasset" SILENT=true
+[2021.10.01-04.45.19:217][887]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/MainMenuUIEAA679E049B3BBC048B42EA4E04945EE.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/UI/MainMenuUI.uasset'
+[2021.10.01-04.45.19:227][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainGameUI" FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/UI/MainGameUI.uasset" SILENT=true
+[2021.10.01-04.45.19:259][887]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/MainGameUIE3C046814C4C814E6CB2B98D56FEEE04.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/UI/MainGameUI.uasset'
+[2021.10.01-04.45.19:299][887]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.01-04.45.19:299][887]LogContentValidation: Display: Validating ObjectRedirector /Game/UI/MainGameUI.MainGameUI
+[2021.10.01-04.45.19:299][887]LogContentValidation: Display: Validating ObjectRedirector /Game/UI/MainGameUI.Default__MainGameUI_C
+[2021.10.01-04.45.19:299][887]LogContentValidation: Display: Validating ObjectRedirector /Game/UI/MainGameUI.MainGameUI_C
+[2021.10.01-04.45.19:299][887]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenuUI.MainMenuUI
