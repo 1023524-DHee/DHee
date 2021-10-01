@@ -3563,3 +3563,521 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.01-04.41.43:745][172]AssetCheck: New page: Asset Save: Main
 [2021.10.01-04.41.43:745][172]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
 [2021.10.01-04.41.46:406][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.10.01-04.42.46:896][498]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.01-04.42.46:905][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.01-04.42.46:906][498]PIE: New page: PIE session: Main (1 Oct 2021, 8:42:46 pm)
+[2021.10.01-04.42.46:906][498]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2021.10.01-04.42.46:909][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002961s)
+[2021.10.01-04.42.46:909][498]LogAIModule: Creating AISystem for world Main
+[2021.10.01-04.42.46:910][498]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2021.10.01-04.42.46:910][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004166s)
+[2021.10.01-04.42.46:927][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.10.01-04.42.46:928][498]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.10.01-04.42.46:928][498]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.01-04.42.46:928][498]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.01-04.42.46:928][498]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.01-04.42.46:928][498]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.01-04.42.46:928][498]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.01-04.42.46:928][498]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.01-04.42.46:928][498]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.01-04.42.46:928][498]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.01-04.42.46:929][498]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.01-04.42.46:929][498]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.01-04.42.46:929][498]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.01-04.42.46:929][498]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.01-04.42.46:935][498]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-04.42.46:935][498]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-04.42.46:947][498]LogAudioMixer: Display: Using Audio Device VZ27A (NVIDIA High Definition Audio)
+[2021.10.01-04.42.46:947][498]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.01-04.42.46:947][498]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.01-04.42.46:947][498]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.01-04.42.46:947][498]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.01-04.42.46:947][498]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.01-04.42.46:947][498]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.01-04.42.46:948][498]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.01-04.42.46:948][498]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.01-04.42.46:948][498]LogInit: FAudioDevice initialized.
+[2021.10.01-04.42.46:948][498]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main'.
+[2021.10.01-04.42.46:957][498]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.10.01-04.42.46:958][498]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2021.10.01-12.42.46
+[2021.10.01-04.42.46:958][498]LogWorld: Bringing up level for play took: 0.000523
+[2021.10.01-04.42.46:958][498]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.10.01-04.42.46:962][498]PIE: Server logged in
+[2021.10.01-04.42.46:962][498]PIE: Play in editor total start time 0.059 seconds.
+[2021.10.01-04.42.46:963][498]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.46:976][499]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.46:984][500]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.46:992][501]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:001][502]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:009][503]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:017][504]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:026][505]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:034][506]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:042][507]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:051][508]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:059][509]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:067][510]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:076][511]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:084][512]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:092][513]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:101][514]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:109][515]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:117][516]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:126][517]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:134][518]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:143][519]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:151][520]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:159][521]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:167][522]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:175][523]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:183][524]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:192][525]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:200][526]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:208][527]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:217][528]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:225][529]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:234][530]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:242][531]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:250][532]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:258][533]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:267][534]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:275][535]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:283][536]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:293][537]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:301][538]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:309][539]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:317][540]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:326][541]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:333][542]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:342][543]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:350][544]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:359][545]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:368][546]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:376][547]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:385][548]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:397][549]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:406][550]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:414][551]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:422][552]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:431][553]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:439][554]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:447][555]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:456][556]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:464][557]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:472][558]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:481][559]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:489][560]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:497][561]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:506][562]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:514][563]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:522][564]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:531][565]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:539][566]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:547][567]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:556][568]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:565][569]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:573][570]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:581][571]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:589][572]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:598][573]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:606][574]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:613][575]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:622][576]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:630][577]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:638][578]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:647][579]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:655][580]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:664][581]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:672][582]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:681][583]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:689][584]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:697][585]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:706][586]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:714][587]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:722][588]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:731][589]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:739][590]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:747][591]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:755][592]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:763][593]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:772][594]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:780][595]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:788][596]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:797][597]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:805][598]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:814][599]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:823][600]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:831][601]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:839][602]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:848][603]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:855][604]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:863][605]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:872][606]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:880][607]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:888][608]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:897][609]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:905][610]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:913][611]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:922][612]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:930][613]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:939][614]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:947][615]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:955][616]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:964][617]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:972][618]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:980][619]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:989][620]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.47:998][621]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:005][622]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:014][623]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:022][624]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:031][625]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:039][626]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:047][627]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:056][628]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:064][629]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:072][630]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:080][631]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:088][632]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:098][633]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:106][634]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:114][635]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:123][636]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:131][637]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:139][638]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:147][639]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:156][640]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:164][641]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:172][642]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:181][643]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:189][644]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:197][645]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:206][646]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:214][647]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:222][648]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:231][649]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:239][650]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:248][651]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:256][652]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:264][653]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:272][654]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:281][655]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:288][656]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:297][657]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:305][658]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:314][659]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:322][660]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:330][661]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:339][662]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:347][663]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:355][664]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:364][665]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:372][666]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:380][667]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:389][668]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:397][669]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:405][670]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:414][671]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:422][672]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:430][673]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:439][674]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:447][675]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:456][676]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:464][677]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:472][678]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:481][679]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:489][680]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:498][681]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:506][682]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:514][683]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:523][684]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:531][685]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:539][686]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:548][687]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:556][688]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:564][689]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:573][690]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:581][691]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:589][692]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:598][693]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:606][694]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:614][695]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:623][696]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:631][697]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:639][698]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:648][699]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:656][700]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:665][701]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:673][702]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:681][703]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:689][704]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:697][705]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:705][706]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:714][707]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:722][708]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:730][709]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:739][710]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:747][711]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:756][712]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:764][713]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:773][714]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:781][715]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:789][716]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:798][717]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:806][718]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:814][719]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:823][720]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:831][721]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:840][722]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:848][723]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:856][724]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:865][725]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:873][726]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:881][727]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:889][728]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:897][729]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:905][730]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:914][731]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:922][732]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:931][733]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:939][734]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:947][735]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:956][736]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:964][737]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:972][738]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:981][739]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:989][740]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.48:997][741]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:006][742]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:014][743]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:023][744]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:031][745]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:039][746]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:048][747]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:056][748]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:064][749]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:073][750]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:081][751]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:089][752]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:098][753]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:106][754]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:115][755]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:123][756]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:131][757]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:140][758]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:148][759]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:156][760]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:164][761]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:172][762]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:181][763]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:189][764]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:198][765]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:206][766]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:214][767]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:222][768]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:230][769]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:239][770]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:247][771]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:256][772]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:264][773]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:272][774]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:281][775]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:289][776]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:297][777]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:306][778]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:314][779]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:322][780]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:331][781]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:339][782]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:347][783]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:356][784]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:364][785]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:372][786]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:381][787]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:389][788]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:397][789]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:406][790]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:414][791]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:423][792]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:431][793]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:439][794]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:448][795]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:456][796]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:464][797]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:473][798]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:481][799]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:489][800]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:498][801]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:505][802]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:514][803]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:522][804]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:531][805]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:539][806]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:548][807]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:556][808]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:564][809]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:572][810]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:581][811]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:589][812]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:598][813]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:607][814]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:615][815]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:624][816]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:632][817]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:641][818]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:649][819]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:657][820]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:666][821]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:674][822]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:682][823]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:691][824]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:699][825]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:707][826]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:715][827]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:724][828]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:732][829]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:741][830]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:749][831]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:758][832]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:766][833]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:774][834]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:782][835]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:790][836]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:798][837]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:806][838]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:815][839]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:823][840]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:832][841]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:840][842]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:848][843]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:857][844]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:865][845]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:873][846]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:882][847]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:890][848]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:898][849]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:907][850]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:915][851]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:924][852]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:932][853]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:941][854]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:949][855]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.49:967][856]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:001][857]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:009][858]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:017][859]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:025][860]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:034][861]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:042][862]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:051][863]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:059][864]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:067][865]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:076][866]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:084][867]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:093][868]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:101][869]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:110][870]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:151][871]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:159][872]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:168][873]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:182][874]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:190][875]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:198][876]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:207][877]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:216][878]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:223][879]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:232][880]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:240][881]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:249][882]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:257][883]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:265][884]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:274][885]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:282][886]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:290][887]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:299][888]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:307][889]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:316][890]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:324][891]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:333][892]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:341][893]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:349][894]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:358][895]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:366][896]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:374][897]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:382][898]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:391][899]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:399][900]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:407][901]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:416][902]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:424][903]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:432][904]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:441][905]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:449][906]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:457][907]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:466][908]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:474][909]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:482][910]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:490][911]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:499][912]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:507][913]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:515][914]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:524][915]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:532][916]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:540][917]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:549][918]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:557][919]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:565][920]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:574][921]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:582][922]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:591][923]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:599][924]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:607][925]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:616][926]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:624][927]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:632][928]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:641][929]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:650][930]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:667][931]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:675][932]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:683][933]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:692][934]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:700][935]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:708][936]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:717][937]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:725][938]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:733][939]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:741][940]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:750][941]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:757][942]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:766][943]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:774][944]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:783][945]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:791][946]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:799][947]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:808][948]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:816][949]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:824][950]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:833][951]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:841][952]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:849][953]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:858][954]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:866][955]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.50:975][968]LogBlueprintUserMessages: [BP_PlayerBase_C_0] X=0.000 Y=0.000 Z=0.000
+[2021.10.01-04.42.51:015][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-04.42.51:015][968]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Main
+[2021.10.01-04.42.51:015][968]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-04.42.51:015][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-04.42.51:027][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.01-04.42.51:030][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-04.42.51:042][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.01-04.42.51:043][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.01-04.42.51:044][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.01-04.42.51:048][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.01-04.42.51:082][971]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.10.01-04.42.53:821][293]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainGameUI.MainGameUI
+[2021.10.01-04.43.59:223][576]LogSlate: Window 'MainGameUI' being destroyed
+[2021.10.01-04.43.59:230][576]LogSlate: Window 'MainGameUI' being destroyed
+[2021.10.01-04.43.59:233][576]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-04.43.59:233][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-04.43.59:534][576]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-04.43.59:534][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
