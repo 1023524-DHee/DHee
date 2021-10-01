@@ -4099,3 +4099,36 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.01-04.45.19:299][887]LogContentValidation: Display: Validating ObjectRedirector /Game/UI/MainGameUI.Default__MainGameUI_C
 [2021.10.01-04.45.19:299][887]LogContentValidation: Display: Validating ObjectRedirector /Game/UI/MainGameUI.MainGameUI_C
 [2021.10.01-04.45.19:299][887]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenuUI.MainMenuUI
+[2021.10.01-04.46.56:277][208]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Main.Main:PersistentLevel.Main
+[2021.10.01-04.46.58:652][441]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.01-04.47.03:131][747]BlueprintLog: New page: Compile Main
+[2021.10.01-04.47.03:132][747]LogBlueprint: Error: [AssetLog] E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\GDS212_Brief1\GDS212_Brief1\Content\Maps\Main.umap: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2021.10.01-04.47.03:169][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.10.01-04.47.03:187][747]LogSlate: Took 0.000715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.01-04.47.05:242][980]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.01-04.47.09:592][296]BlueprintLog: New page: Compile Main
+[2021.10.01-04.47.09:622][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.10.01-04.47.12:610][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.01-04.47.12:627][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.10.01-04.47.12:701][644]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/Main5F43CB1B45849B0FDD601E811911B04B.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/Main.umap'
+[2021.10.01-04.47.12:716][644]LogFileHelpers: Saving map 'Main' took 0.106
+[2021.10.01-04.47.12:728][644]AssetCheck: New page: Asset Save: Main
+[2021.10.01-04.47.12:728][644]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.10.01-04.47.29:406][615]BlueprintLog: New page: Compile Main
+[2021.10.01-04.47.29:433][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.10.01-04.47.30:142][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.01-04.47.30:159][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.10.01-04.47.30:211][695]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/Main1B65DA7C4ACD54905D5C9A903709DE6A.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/Main.umap'
+[2021.10.01-04.47.30:224][695]LogFileHelpers: Saving map 'Main' took 0.082
+[2021.10.01-04.47.30:236][695]AssetCheck: New page: Asset Save: Main
+[2021.10.01-04.47.30:236][695]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.10.01-04.47.31:835][880]LogSlate: Window 'Main' being destroyed
+[2021.10.01-04.47.31:839][880]LogSlate: Window 'Main' being destroyed
+[2021.10.01-04.47.31:846][880]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-04.47.31:846][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-04.47.35:662][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.01-04.47.35:679][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.10.01-04.47.35:728][332]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/Main389014524E5A4ABA75BDE7B80EBE958C.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/Main.umap'
+[2021.10.01-04.47.35:754][332]AssetCheck: New page: Asset Save: Main
+[2021.10.01-04.47.35:754][332]LogContentValidation: Display: Validating World /Game/Maps/Main.Main
+[2021.10.01-04.47.39:699][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
