@@ -1875,3 +1875,30 @@ Continue: Skip saving this asset only.
 [2021.10.04-15.57.32:254][846]LogSavePackage: Moving '../../../../../Game Projects/SAE Games/GDS212/GDS212_Brief1/GDS212_Brief1/Saved/BP_PlayerBase974519274BE713A26A2BDB8C4A36DE2E.tmp' to '../../../../../Game Projects/SAE Games/GDS212/GDS212_Brief1/GDS212_Brief1/Content/Blueprints/BP_PlayerBase.uasset'
 [2021.10.04-15.57.32:268][846]AssetCheck: New page: Asset Save: BP_PlayerBase
 [2021.10.04-15.57.32:269][846]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerBase.BP_PlayerBase
+[2021.10.04-15.59.05:665][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerBase" FILE="../../../../../Game Projects/SAE Games/GDS212/GDS212_Brief1/GDS212_Brief1/Content/Blueprints/BP_PlayerBase.uasset" SILENT=true
+[2021.10.04-15.59.05:734][593]LogSavePackage: Moving '../../../../../Game Projects/SAE Games/GDS212/GDS212_Brief1/GDS212_Brief1/Saved/BP_PlayerBase056C6F7F493F4F3889006B91ECC7050E.tmp' to '../../../../../Game Projects/SAE Games/GDS212/GDS212_Brief1/GDS212_Brief1/Content/Blueprints/BP_PlayerBase.uasset'
+[2021.10.04-15.59.05:751][593]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2021.10.04-15.59.05:751][593]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerBase.BP_PlayerBase
+[2021.10.04-15.59.08:293][774]LogSlate: Window 'BP_PlayerBase' being destroyed
+[2021.10.04-15.59.08:336][774]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-15.59.08:336][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-15.59.10:459][  4]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerBase.BP_PlayerBase
+[2021.10.04-16.02.49:378][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerBase" FILE="../../../../../Game Projects/SAE Games/GDS212/GDS212_Brief1/GDS212_Brief1/Content/Blueprints/BP_PlayerBase.uasset" SILENT=true
+[2021.10.04-16.02.49:447][223]LogSavePackage: Moving '../../../../../Game Projects/SAE Games/GDS212/GDS212_Brief1/GDS212_Brief1/Saved/BP_PlayerBase58AE7FD841E3FB037EF3B6805C9143F5.tmp' to '../../../../../Game Projects/SAE Games/GDS212/GDS212_Brief1/GDS212_Brief1/Content/Blueprints/BP_PlayerBase.uasset'
+[2021.10.04-16.02.49:464][223]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2021.10.04-16.02.49:464][223]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerBase.BP_PlayerBase
+[2021.10.04-16.03.18:718][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerBase" FILE="../../../../../Game Projects/SAE Games/GDS212/GDS212_Brief1/GDS212_Brief1/Content/Blueprints/BP_PlayerBase.uasset" SILENT=true
+[2021.10.04-16.03.18:787][859]LogSavePackage: Moving '../../../../../Game Projects/SAE Games/GDS212/GDS212_Brief1/GDS212_Brief1/Saved/BP_PlayerBaseC0CFFC8D4A6B0EBD83B3B5A5A4081981.tmp' to '../../../../../Game Projects/SAE Games/GDS212/GDS212_Brief1/GDS212_Brief1/Content/Blueprints/BP_PlayerBase.uasset'
+[2021.10.04-16.03.18:803][859]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2021.10.04-16.03.18:803][859]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerBase.BP_PlayerBase
+[2021.10.04-16.04.53:494][637]BlueprintLog: New page: Compile BP_PlayerBase
+[2021.10.04-16.04.53:616][637]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2021.10.04-16.04.54:133][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerBase" FILE="../../../../../Game Projects/SAE Games/GDS212/GDS212_Brief1/GDS212_Brief1/Content/Blueprints/BP_PlayerBase.uasset" SILENT=true
+[2021.10.04-16.04.54:201][656]LogSavePackage: Moving '../../../../../Game Projects/SAE Games/GDS212/GDS212_Brief1/GDS212_Brief1/Saved/BP_PlayerBase1FD4C5174436BA091ED5BA8206F043BB.tmp' to '../../../../../Game Projects/SAE Games/GDS212/GDS212_Brief1/GDS212_Brief1/Content/Blueprints/BP_PlayerBase.uasset'
+[2021.10.04-16.04.54:221][656]AssetCheck: New page: Asset Save: BP_PlayerBase
+[2021.10.04-16.04.54:221][656]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerBase.BP_PlayerBase
+[2021.10.04-16.04.55:796][745]LogSlate: Window 'BP_PlayerBase' being destroyed
+[2021.10.04-16.04.55:801][745]LogSlate: Window 'BP_PlayerBase' being destroyed
+[2021.10.04-16.04.55:807][745]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.10.04-16.04.55:807][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.04-16.04.57:587][944]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
