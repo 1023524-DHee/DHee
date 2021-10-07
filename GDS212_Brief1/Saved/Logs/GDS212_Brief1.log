@@ -1048,3 +1048,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.07-03.27.32:236][201]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.10.07-03.27.32:236][201]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.065ms to complete.
 [2021.10.07-03.27.32:236][201]LogFileHelpers: Loading map 'MainMenu' took 0.027
+[2021.10.07-03.28.59:113][572]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2021.10.07-03.28.59:329][572]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.10.07-03.29.00:045][572]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.07-03.29.00:073][573]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.07-03.29.14:870][ 35]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.07-03.29.14:878][ 35]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.07-03.29.14:884][ 35]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-03.29.14:884][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
