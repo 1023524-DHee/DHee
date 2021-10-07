@@ -1056,3 +1056,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.07-03.29.14:878][ 35]LogSlate: Window 'MainMenu' being destroyed
 [2021.10.07-03.29.14:884][ 35]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2021.10.07-03.29.14:884][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-04.17.18:037][871]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenuUI.MainMenuUI
+[2021.10.07-04.17.29:169][102]BlueprintLog: New page: Compile MainMenuUI
+[2021.10.07-04.17.29:217][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.10.07-04.17.29:262][102]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.07-04.17.29:665][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenuUI" FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/UI/MainMenuUI.uasset" SILENT=true
+[2021.10.07-04.17.29:678][149]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/MainMenuUID004421C467F0035B4A05EA3CA40F09E.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/UI/MainMenuUI.uasset'
+[2021.10.07-04.17.29:692][149]AssetCheck: New page: Asset Save: MainMenuUI
+[2021.10.07-04.17.29:692][149]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenuUI.MainMenuUI
+[2021.10.07-04.17.31:928][407]LogSlate: Window 'MainMenuUI' being destroyed
+[2021.10.07-04.17.31:932][407]LogSlate: Window 'MainMenuUI' being destroyed
+[2021.10.07-04.17.31:933][407]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-04.17.31:933][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-04.17.31:944][407]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-04.17.31:944][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-04.17.33:869][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.07-04.17.33:911][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.10.07-04.17.33:929][631]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/MainMenuD3DFA10B4B5D9FFA060CB292B9573A56.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/MainMenu.umap'
+[2021.10.07-04.17.33:956][631]AssetCheck: New page: Asset Save: MainMenu
+[2021.10.07-04.17.33:956][631]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
