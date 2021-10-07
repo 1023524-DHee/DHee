@@ -2129,3 +2129,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.07-02.09.59:761][741]LogFileHelpers: Loading map 'Main' took 0.085
 [2021.10.07-02.10.51:544][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
 [2021.10.07-02.10.57:840][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.10.07-02.14.54:093][443]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.10.07-02.14.54:109][443]LogContentBrowser: Creating deferred item: NewFolder
+[2021.10.07-02.14.57:429][842]LogContentBrowser: Attempting asset rename: NewFolder -> Sound
+[2021.10.07-02.14.57:430][842]LogContentBrowser: End creating deferred item NewFolder
+[2021.10.07-02.15.33:660][325]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Sound\2playerSong1.wav)
+[2021.10.07-02.15.34:686][325]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Sound\2playerSong2.wav)
+[2021.10.07-02.15.35:914][325]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Sound\2playerSong3.wav)
+[2021.10.07-02.15.36:078][325]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Sound\Buzzsaw.wav)
+[2021.10.07-02.15.36:325][325]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Sound\Death2.wav)
+[2021.10.07-02.15.36:444][325]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Sound\DeathSound.wav)
+[2021.10.07-02.15.36:457][325]LogAssetTools: Warning: Failed to import 'E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Sound\Walk1'. Unknown extension ''.
+[2021.10.07-02.15.36:458][325]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Sound\Walk2.wav)
+[2021.10.07-02.17.41:674][258]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave 2playerSong1...
+[2021.10.07-02.17.41:676][258]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/2playerSong1.2playerSong1 will be modified from 40 to 40.
+[2021.10.07-02.17.42:368][258]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 9830400 while cooking SoundWave /Game/Sound/2playerSong1.2playerSong1.
+[2021.10.07-02.17.56:275][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.10.07-02.17.58:099][866]LogSlate: Window 'Delete Assets' being destroyed
+[2021.10.07-02.17.58:156][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.10.07-02.18.09:917][288]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Brief 1 Sounds-20211007T021611Z-001\Brief 1 Sounds/Diegetic/Buzzsaw.wav)
+[2021.10.07-02.18.09:922][288]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Brief 1 Sounds-20211007T021611Z-001\Brief 1 Sounds/Diegetic/Buzzsaw_v1.2.wav)
+[2021.10.07-02.18.09:923][288]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Brief 1 Sounds-20211007T021611Z-001\Brief 1 Sounds/Diegetic/trimtrimMyRec_0925_0813.mp3)
+[2021.10.07-02.18.09:925][288]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Brief 1 Sounds-20211007T021611Z-001\Brief 1 Sounds/Diegetic/Walk1.wav)
+[2021.10.07-02.18.09:926][288]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Brief 1 Sounds-20211007T021611Z-001\Brief 1 Sounds/Diegetic/Walk2.wav)
+[2021.10.07-02.18.09:927][288]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Brief 1 Sounds-20211007T021611Z-001\Brief 1 Sounds/Diegetic/Walk3.wav)
+[2021.10.07-02.18.09:929][288]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Brief 1 Sounds-20211007T021611Z-001\Brief 1 Sounds/Diegetic/Walk4.wav)
+[2021.10.07-02.18.09:952][288]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Brief 1 Sounds-20211007T021611Z-001\Brief 1 Sounds/Non-Diegetic/2playerSong1.wav)
+[2021.10.07-02.18.10:067][288]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Brief 1 Sounds-20211007T021611Z-001\Brief 1 Sounds/Non-Diegetic/2playerSong2.wav)
+[2021.10.07-02.18.10:285][288]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Brief 1 Sounds-20211007T021611Z-001\Brief 1 Sounds/Non-Diegetic/2playerSong3.wav)
+[2021.10.07-02.18.10:449][288]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Brief 1 Sounds-20211007T021611Z-001\Brief 1 Sounds/Non-Diegetic/Death2.wav)
+[2021.10.07-02.18.10:492][288]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Brief 1 Sounds-20211007T021611Z-001\Brief 1 Sounds/Non-Diegetic/DeathSound.wav)
+[2021.10.07-02.18.10:501][288]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\Brief 1 Sounds-20211007T021611Z-001\Brief 1 Sounds/Non-Diegetic/TurnScreen.wav)
+[2021.10.07-02.18.32:259][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.10.07-02.18.32:299][626]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/Buzzsaw3B16E9654784BFC067082E9BD783FCD3.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Sound/Brief_1_Sounds/Diegetic/Buzzsaw.uasset'
+[2021.10.07-02.18.32:357][626]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/Buzzsaw_v1_20E2C62FF4996045A7CE607BF04EE46E9.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Sound/Brief_1_Sounds/Diegetic/Buzzsaw_v1_2.uasset'
+[2021.10.07-02.18.32:361][626]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/trimtrimMyRec_0925_08137357BE87439E06659B70C1BF43020314.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Sound/Brief_1_Sounds/Diegetic/trimtrimMyRec_0925_0813.uasset'
+[2021.10.07-02.18.32:369][626]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/Walk1572EA8F04CE406873C751CBB0398D4B9.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Sound/Brief_1_Sounds/Diegetic/Walk1.uasset'
+[2021.10.07-02.18.32:377][626]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/Walk2FD1378F44EB73E9B3D439B95A21FEB0B.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Sound/Brief_1_Sounds/Diegetic/Walk2.uasset'
+[2021.10.07-02.18.32:384][626]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/Walk3381D39314BF038D73955A89061722C71.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Sound/Brief_1_Sounds/Diegetic/Walk3.uasset'
+[2021.10.07-02.18.32:391][626]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/Walk483F3A5994731D423496F43B81C0D94FE.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Sound/Brief_1_Sounds/Diegetic/Walk4.uasset'
+[2021.10.07-02.18.32:678][626]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/2playerSong1B865D11E4D1D749300686EBF80F50B1C.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Sound/Brief_1_Sounds/Non-Diegetic/2playerSong1.uasset'
+[2021.10.07-02.18.33:774][626]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/2playerSong204850EB343AB8ED2FF4EC59DC83E6A19.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Sound/Brief_1_Sounds/Non-Diegetic/2playerSong2.uasset'
+[2021.10.07-02.18.34:995][626]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/2playerSong30A9945BA4E5050638A9B20B967CF9D15.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Sound/Brief_1_Sounds/Non-Diegetic/2playerSong3.uasset'
+[2021.10.07-02.18.35:275][626]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/Death24B145982445739FA8D55B4B7E76ED08A.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Sound/Brief_1_Sounds/Non-Diegetic/Death2.uasset'
+[2021.10.07-02.18.35:392][626]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/DeathSoundE8DF1B544B7558DA29E43F83913CD9A6.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Sound/Brief_1_Sounds/Non-Diegetic/DeathSound.uasset'
+[2021.10.07-02.18.35:418][626]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/TurnScreenDE1A7D4C457ED1AF2CEF27BB86DA5A50.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Sound/Brief_1_Sounds/Non-Diegetic/TurnScreen.uasset'
+[2021.10.07-02.18.35:470][626]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.07-02.18.35:471][626]LogContentValidation: Display: Validating SoundWave /Game/Sound/Brief_1_Sounds/Diegetic/Walk3.Walk3
+[2021.10.07-02.18.35:471][626]LogContentValidation: Display: Validating SoundWave /Game/Sound/Brief_1_Sounds/Diegetic/Walk2.Walk2
+[2021.10.07-02.18.35:471][626]LogContentValidation: Display: Validating SoundWave /Game/Sound/Brief_1_Sounds/Non-Diegetic/TurnScreen.TurnScreen
+[2021.10.07-02.18.35:471][626]LogContentValidation: Display: Validating SoundWave /Game/Sound/Brief_1_Sounds/Non-Diegetic/DeathSound.DeathSound
+[2021.10.07-02.18.35:471][626]LogContentValidation: Display: Validating FileMediaSource /Game/Sound/Brief_1_Sounds/Diegetic/trimtrimMyRec_0925_0813.trimtrimMyRec_0925_0813
+[2021.10.07-02.18.35:471][626]LogContentValidation: Display: Validating SoundWave /Game/Sound/Brief_1_Sounds/Non-Diegetic/Death2.Death2
+[2021.10.07-02.18.35:471][626]LogContentValidation: Display: Validating SoundWave /Game/Sound/Brief_1_Sounds/Diegetic/Walk1.Walk1
+[2021.10.07-02.18.35:471][626]LogContentValidation: Display: Validating SoundWave /Game/Sound/Brief_1_Sounds/Diegetic/Buzzsaw_v1_2.Buzzsaw_v1_2
+[2021.10.07-02.18.35:471][626]LogContentValidation: Display: Validating SoundWave /Game/Sound/Brief_1_Sounds/Diegetic/Buzzsaw.Buzzsaw
+[2021.10.07-02.18.35:471][626]LogContentValidation: Display: Validating SoundWave /Game/Sound/Brief_1_Sounds/Non-Diegetic/2playerSong3.2playerSong3
+[2021.10.07-02.18.35:471][626]LogContentValidation: Display: Validating SoundWave /Game/Sound/Brief_1_Sounds/Non-Diegetic/2playerSong2.2playerSong2
+[2021.10.07-02.18.35:471][626]LogContentValidation: Display: Validating SoundWave /Game/Sound/Brief_1_Sounds/Non-Diegetic/2playerSong1.2playerSong1
+[2021.10.07-02.18.35:471][626]LogContentValidation: Display: Validating SoundWave /Game/Sound/Brief_1_Sounds/Diegetic/Walk4.Walk4
