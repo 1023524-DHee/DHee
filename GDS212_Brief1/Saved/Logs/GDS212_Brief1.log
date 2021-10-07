@@ -2127,3 +2127,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.07-02.09.59:761][741]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.10.07-02.09.59:761][741]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.071ms to complete.
 [2021.10.07-02.09.59:761][741]LogFileHelpers: Loading map 'Main' took 0.085
+[2021.10.07-02.10.51:544][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.10.07-02.10.57:840][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
