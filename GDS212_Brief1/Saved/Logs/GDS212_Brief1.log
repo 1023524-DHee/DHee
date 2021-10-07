@@ -2188,3 +2188,163 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.07-02.18.35:471][626]LogContentValidation: Display: Validating SoundWave /Game/Sound/Brief_1_Sounds/Non-Diegetic/2playerSong2.2playerSong2
 [2021.10.07-02.18.35:471][626]LogContentValidation: Display: Validating SoundWave /Game/Sound/Brief_1_Sounds/Non-Diegetic/2playerSong1.2playerSong1
 [2021.10.07-02.18.35:471][626]LogContentValidation: Display: Validating SoundWave /Game/Sound/Brief_1_Sounds/Diegetic/Walk4.Walk4
+[2021.10.07-02.19.55:706][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.10.07-02.19.55:732][227]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2021.10.07-02.19.55:733][227]Cmd: MAP LOAD FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.07-02.19.55:733][227]LightingResults: New page: Lighting Build
+[2021.10.07-02.19.55:733][227]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.10.07-02.19.55:772][227]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-02.19.55:772][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-02.19.55:772][227]MapCheck: New page: Map Check
+[2021.10.07-02.19.55:772][227]LightingResults: New page: Lighting Build
+[2021.10.07-02.19.55:787][227]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.07-02.19.55:791][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.10.07-02.19.55:791][227]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.10.07-02.19.55:792][227]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.07-02.19.55:792][227]LogAIModule: Creating AISystem for world MainMenu
+[2021.10.07-02.19.55:809][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.10.07-02.19.56:123][227]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.07-02.19.56:123][227]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.552ms to complete.
+[2021.10.07-02.19.56:123][227]LogFileHelpers: Loading map 'MainMenu' took 0.390
+[2021.10.07-02.19.59:145][576]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2021.10.07-02.22.16:774][956]BlueprintLog: New page: Compile MainMenu
+[2021.10.07-02.22.16:803][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.10.07-02.22.17:820][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.07-02.22.17:838][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.10.07-02.22.17:858][ 73]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/MainMenu5B2F1E804E98865B22FBA0B05C506A32.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/MainMenu.umap'
+[2021.10.07-02.22.17:874][ 73]LogFileHelpers: Saving map 'MainMenu' took 0.055
+[2021.10.07-02.22.17:885][ 73]AssetCheck: New page: Asset Save: MainMenu
+[2021.10.07-02.22.17:885][ 73]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2021.10.07-02.22.19:286][240]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.07-02.22.19:290][240]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.07-02.22.19:296][240]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-02.22.19:297][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-02.22.31:681][703]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sound/Brief_1_Sounds/Non-Diegetic/2playerSong3.2playerSong3
+[2021.10.07-02.22.38:609][362]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/2playerSong30668CD38472D5AF1ED8DEFAA18206E24.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Sound/Brief_1_Sounds/Non-Diegetic/2playerSong3.uasset'
+[2021.10.07-02.22.38:675][362]AssetCheck: New page: Asset Save: 2playerSong3
+[2021.10.07-02.22.38:675][362]LogContentValidation: Display: Validating SoundWave /Game/Sound/Brief_1_Sounds/Non-Diegetic/2playerSong3.2playerSong3
+[2021.10.07-02.22.43:154][897]LogSlate: Window '2playerSong3' being destroyed
+[2021.10.07-02.22.43:156][897]LogSlate: Window '2playerSong3' being destroyed
+[2021.10.07-02.22.51:798][906]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2021.10.07-02.23.02:248][102]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.07-02.23.02:255][102]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.07-02.23.02:263][102]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-02.23.02:264][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-02.23.05:313][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.10.07-02.23.07:819][750]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.07-02.23.07:830][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.07-02.23.07:830][750]PIE: New page: PIE session: MainMenu (7 Oct 2021, 6:23:07 pm)
+[2021.10.07-02.23.07:830][750]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.10.07-02.23.07:831][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000788s)
+[2021.10.07-02.23.07:831][750]LogAIModule: Creating AISystem for world MainMenu
+[2021.10.07-02.23.07:832][750]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2021.10.07-02.23.07:832][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001724s)
+[2021.10.07-02.23.07:847][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.10.07-02.23.07:847][750]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.10.07-02.23.07:847][750]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.07-02.23.07:847][750]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.07-02.23.07:847][750]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.07-02.23.07:847][750]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.07-02.23.07:847][750]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.07-02.23.07:847][750]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.07-02.23.07:847][750]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.07-02.23.07:847][750]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.07-02.23.07:848][750]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.07-02.23.07:848][750]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.07-02.23.07:848][750]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.07-02.23.07:848][750]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.07-02.23.07:853][750]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.07-02.23.07:853][750]LogAudioMixer: Display: 1: FrontRight
+[2021.10.07-02.23.07:865][750]LogAudioMixer: Display: Using Audio Device VZ27A (NVIDIA High Definition Audio)
+[2021.10.07-02.23.07:865][750]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.07-02.23.07:865][750]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.07-02.23.07:865][750]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.07-02.23.07:865][750]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.07-02.23.07:865][750]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.07-02.23.07:865][750]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.07-02.23.07:866][750]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.07-02.23.07:866][750]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.07-02.23.07:866][750]LogInit: FAudioDevice initialized.
+[2021.10.07-02.23.07:866][750]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainMenu'.
+[2021.10.07-02.23.07:874][750]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.10.07-02.23.07:876][750]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.10.07-10.23.07
+[2021.10.07-02.23.07:876][750]LogWorld: Bringing up level for play took: 0.000248
+[2021.10.07-02.23.07:876][750]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.10.07-02.23.07:879][750]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2021.10.07-02.23.07:879][750]PIE: Server logged in
+[2021.10.07-02.23.07:879][750]PIE: Play in editor total start time 0.052 seconds.
+[2021.10.07-02.23.07:882][750]LogAudio: Warning: Detected orphaned looping sound '2playerSong3'.
+[2021.10.07-02.23.07:885][750]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave 2playerSong3...
+[2021.10.07-02.23.07:895][750]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Brief_1_Sounds/Non-Diegetic/2playerSong3.2playerSong3 will be modified from 40 to 40.
+[2021.10.07-02.23.10:905][750]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 45641144 while cooking SoundWave /Game/Sound/Brief_1_Sounds/Non-Diegetic/2playerSong3.2playerSong3.
+[2021.10.07-02.23.55:596][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-02.23.55:596][365]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.10.07-02.23.55:596][365]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-02.23.55:596][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-02.23.55:606][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.07-02.23.55:609][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-02.23.55:623][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-02.23.55:624][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.07-02.23.55:624][365]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.07-02.23.55:629][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.10.07-02.23.55:942][366]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.10.07-02.24.05:196][463]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2021.10.07-02.25.12:923][759]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave 2playerSong2...
+[2021.10.07-02.25.12:933][759]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Brief_1_Sounds/Non-Diegetic/2playerSong2.2playerSong2 will be modified from 40 to 40.
+[2021.10.07-02.25.15:502][759]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 39321600 while cooking SoundWave /Game/Sound/Brief_1_Sounds/Non-Diegetic/2playerSong2.2playerSong2.
+[2021.10.07-02.25.36:174][209]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.07-02.25.36:184][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.07-02.25.36:185][209]PIE: New page: PIE session: MainMenu (7 Oct 2021, 6:25:36 pm)
+[2021.10.07-02.25.36:185][209]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.10.07-02.25.36:186][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000825s)
+[2021.10.07-02.25.36:186][209]LogAIModule: Creating AISystem for world MainMenu
+[2021.10.07-02.25.36:186][209]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2021.10.07-02.25.36:186][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001729s)
+[2021.10.07-02.25.36:205][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.10.07-02.25.36:207][209]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.10.07-02.25.36:207][209]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.07-02.25.36:207][209]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.07-02.25.36:207][209]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.07-02.25.36:207][209]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.07-02.25.36:207][209]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.07-02.25.36:207][209]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.07-02.25.36:207][209]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.07-02.25.36:207][209]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.07-02.25.36:207][209]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.07-02.25.36:207][209]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.07-02.25.36:207][209]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.07-02.25.36:207][209]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.07-02.25.36:213][209]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.07-02.25.36:213][209]LogAudioMixer: Display: 1: FrontRight
+[2021.10.07-02.25.36:224][209]LogAudioMixer: Display: Using Audio Device VZ27A (NVIDIA High Definition Audio)
+[2021.10.07-02.25.36:224][209]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.07-02.25.36:224][209]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.07-02.25.36:224][209]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.07-02.25.36:225][209]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.07-02.25.36:225][209]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.07-02.25.36:225][209]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.07-02.25.36:226][209]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.07-02.25.36:226][209]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.07-02.25.36:226][209]LogInit: FAudioDevice initialized.
+[2021.10.07-02.25.36:226][209]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenu'.
+[2021.10.07-02.25.36:232][209]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.10.07-02.25.36:233][209]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.10.07-10.25.36
+[2021.10.07-02.25.36:233][209]LogWorld: Bringing up level for play took: 0.000225
+[2021.10.07-02.25.36:233][209]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.10.07-02.25.36:235][209]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2021.10.07-02.25.36:235][209]PIE: Server logged in
+[2021.10.07-02.25.36:236][209]PIE: Play in editor total start time 0.054 seconds.
+[2021.10.07-02.25.36:239][209]LogAudio: Warning: Detected orphaned looping sound '2playerSong3'.
+[2021.10.07-02.25.48:923][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-02.25.48:923][721]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.10.07-02.25.48:923][721]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.10.07-02.25.48:923][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-02.25.48:933][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.07-02.25.48:937][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.07-02.25.48:953][721]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.07-02.25.48:953][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.07-02.25.48:954][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.07-02.25.48:956][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.07-02.25.48:959][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.10.07-02.25.48:983][723]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.10.07-02.25.51:884][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
