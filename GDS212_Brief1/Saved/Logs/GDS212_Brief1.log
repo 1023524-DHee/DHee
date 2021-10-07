@@ -67,6 +67,7 @@ LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin ChaosCloth
 LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin CharacterAI
 LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin GeometryCache
@@ -180,7 +181,7 @@ LogInit: Build: ++UE4+Release-4.27-CL-17155196
 LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
 LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
 LogInit: Net CL: 17155196
-LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1070
 LogInit: Compiled (64-bit): Aug 13 2021 06:13:13
 LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
