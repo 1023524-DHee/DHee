@@ -1029,3 +1029,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.08-03.35.57:714][  0]LogAssetRegistry: Asset discovery search completed in 6.6266 seconds
 [2021.10.08-03.35.57:723][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2021.10.08-03.35.57:726][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.08-03.36.35:941][ 25]LogContentBrowser: Deferred new asset file creation: NewPaperTileMap
+[2021.10.08-03.36.35:948][ 25]LogContentBrowser: Creating deferred item: NewPaperTileMap
+[2021.10.08-03.37.05:654][595]LogContentBrowser: Attempting asset rename: NewPaperTileMap -> Jason_Level2_TD
+[2021.10.08-03.37.05:657][595]LogContentBrowser: End creating deferred item NewPaperTileMap
+[2021.10.08-03.37.12:109][367]LogSlate: Took 0.000954 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.08-03.37.12:124][367]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Maps/Jason_Level2_TD.Jason_Level2_TD
+[2021.10.08-03.37.12:252][367]LogSlate: Took 0.000779 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.08-03.37.31:900][695]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.08-03.37.38:402][421]LogSlate: Window 'Jason_Level2_TD*' being destroyed
+[2021.10.08-03.37.38:409][421]LogSlate: Window 'Jason_Level2_TD*' being destroyed
+[2021.10.08-03.37.38:410][421]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.10.08-03.37.38:410][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
