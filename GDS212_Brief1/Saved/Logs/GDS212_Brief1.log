@@ -1076,3 +1076,263 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.08-03.54.35:504][763]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
 [2021.10.08-03.54.35:798][763]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
 [2021.10.08-03.54.36:591][764]LogSlate: Took 0.000901 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.08-03.55.57:451][580]BlueprintLog: New page: Compile MainMenu
+[2021.10.08-03.55.57:481][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.10.08-03.55.57:497][580]LogSlate: Took 0.000819 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.08-03.56.02:499][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.08-03.56.02:514][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.10.08-03.56.02:528][158]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/MainMenuB56446DF487F34644E7F61A7A7F52A88.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/MainMenu.umap'
+[2021.10.08-03.56.02:565][158]AssetCheck: New page: Asset Save: MainMenu
+[2021.10.08-03.56.02:565][158]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2021.10.08-03.56.12:427][277]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.10.08-03.56.19:707][ 61]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.08-03.56.24:785][654]LogSlate: Window 'Project Settings' being destroyed
+[2021.10.08-03.56.24:788][654]LogSlate: Window 'Project Settings' being destroyed
+[2021.10.08-03.59.16:785][936]BlueprintLog: New page: Compile MainMenu
+[2021.10.08-03.59.16:842][936]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.10.08-03.59.18:141][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.08-03.59.18:169][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.10.08-03.59.18:179][ 88]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/MainMenu4A9595984F6D7FCECB19AC8A80747864.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/MainMenu.umap'
+[2021.10.08-03.59.18:205][ 88]LogFileHelpers: Saving map 'MainMenu' took 0.064
+[2021.10.08-03.59.18:221][ 88]AssetCheck: New page: Asset Save: MainMenu
+[2021.10.08-03.59.18:221][ 88]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2021.10.08-03.59.23:166][656]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MainmenuSOund.MainmenuSound
+[2021.10.08-03.59.51:953][501]LogSlate: Window 'MainmenuSound' being destroyed
+[2021.10.08-03.59.51:961][501]LogSlate: Window 'MainmenuSound' being destroyed
+[2021.10.08-03.59.51:967][501]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.10.08-03.59.51:967][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-03.59.52:017][501]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.10.08-03.59.52:017][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-04.00.04:613][944]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2021.10.08-04.00.16:172][103]BlueprintLog: New page: Compile MainMenu
+[2021.10.08-04.00.16:231][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.10.08-04.00.18:110][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.08-04.00.18:151][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.10.08-04.00.18:163][324]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/MainMenuCBEC6CA74B216261AB82CA9509A8891E.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/MainMenu.umap'
+[2021.10.08-04.00.18:187][324]LogFileHelpers: Saving map 'MainMenu' took 0.078
+[2021.10.08-04.00.18:198][324]AssetCheck: New page: Asset Save: MainMenu
+[2021.10.08-04.00.18:198][324]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2021.10.08-04.00.20:750][628]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.08-04.00.20:754][628]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.08-04.00.20:761][628]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.10.08-04.00.20:761][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-04.00.25:984][246]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenuUI.MainMenuUI
+[2021.10.08-04.01.30:855][877]BlueprintLog: New page: Compile MainMenuUI
+[2021.10.08-04.01.30:903][877]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.10.08-04.01.31:592][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenuUI" FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/UI/MainMenuUI.uasset" SILENT=true
+[2021.10.08-04.01.31:604][920]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/MainMenuUI2DA6C74540912756E4E9159B43FF370A.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/UI/MainMenuUI.uasset'
+[2021.10.08-04.01.31:617][920]AssetCheck: New page: Asset Save: MainMenuUI
+[2021.10.08-04.01.31:617][920]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenuUI.MainMenuUI
+[2021.10.08-04.04.31:454][640]LogSlate: Window 'MainMenuUI' being destroyed
+[2021.10.08-04.04.31:462][640]LogSlate: Window 'MainMenuUI' being destroyed
+[2021.10.08-04.04.31:466][640]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.10.08-04.04.31:466][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-04.04.31:993][640]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.10.08-04.04.31:993][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-04.04.46:951][408]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.08-04.04.46:965][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.08-04.04.46:965][408]PIE: New page: PIE session: MainMenu (8 Oct 2021, 8:04:46 pm)
+[2021.10.08-04.04.46:967][408]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.08-04.04.46:969][408]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.08-04.04.46:969][408]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.10.08-04.04.46:971][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001629s)
+[2021.10.08-04.04.46:972][408]LogAIModule: Creating AISystem for world MainMenu
+[2021.10.08-04.04.46:973][408]LogPlayLevel: PIE: World Init took: (0.001382s)
+[2021.10.08-04.04.46:973][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003189s)
+[2021.10.08-04.04.47:023][408]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.10.08-04.04.47:027][408]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.10.08-04.04.47:027][408]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.08-04.04.47:027][408]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.08-04.04.47:027][408]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.08-04.04.47:027][408]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.08-04.04.47:027][408]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.08-04.04.47:027][408]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.08-04.04.47:027][408]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.08-04.04.47:027][408]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.08-04.04.47:028][408]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.08-04.04.47:028][408]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.08-04.04.47:028][408]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.08-04.04.47:028][408]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.08-04.04.47:033][408]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.08-04.04.47:034][408]LogAudioMixer: Display: 1: FrontRight
+[2021.10.08-04.04.47:046][408]LogAudioMixer: Display: Using Audio Device VZ27A (NVIDIA High Definition Audio)
+[2021.10.08-04.04.47:046][408]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.08-04.04.47:046][408]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.08-04.04.47:046][408]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.08-04.04.47:046][408]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.08-04.04.47:046][408]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.08-04.04.47:046][408]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.08-04.04.47:047][408]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.08-04.04.47:048][408]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.08-04.04.47:048][408]LogInit: FAudioDevice initialized.
+[2021.10.08-04.04.47:048][408]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2021.10.08-04.04.47:055][408]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.10.08-04.04.47:056][408]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.10.08-12.04.47
+[2021.10.08-04.04.47:056][408]LogWorld: Bringing up level for play took: 0.000667
+[2021.10.08-04.04.47:056][408]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.10.08-04.04.47:064][408]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.10.08-04.04.47:068][408]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2021.10.08-04.04.47:068][408]PIE: Server logged in
+[2021.10.08-04.04.47:070][408]PIE: Play in editor total start time 0.111 seconds.
+[2021.10.08-04.04.48:101][502]LogNet: Browse: /Game/Maps/Level1
+[2021.10.08-04.04.48:101][502]LogLoad: LoadMap: /Game/Maps/Level1
+[2021.10.08-04.04.48:101][502]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.10.08-04.04.48:102][502]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.10.08-04.04.48:102][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-04.04.48:154][502]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.08-04.04.48:208][502]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.10.08-04.04.48:220][502]LogLinker: Warning: [AssetLog] E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\GDS212_Brief1\GDS212_Brief1\Content\Maps\Level1.umap: Failed to load '/Game/Maps/Level1_BuiltData': Can't find file.
+[2021.10.08-04.04.48:220][502]LogLinker: Warning: [AssetLog] E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\GDS212_Brief1\GDS212_Brief1\Content\Maps\Level1.umap: Failed to load '/Game/Maps/Level1_BuiltData': Can't find file.
+[2021.10.08-04.04.48:220][502]LogLinker: Warning: [AssetLog] E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\GDS212_Brief1\GDS212_Brief1\Content\Maps\Level1.umap: Failed to load '/Game/Maps/Level1_BuiltData': Can't find file.
+[2021.10.08-04.04.48:256][502]LogLinker: Warning: Failed to load '/Game/Maps/Level1_BuiltData': Can't find file.
+[2021.10.08-04.04.48:257][502]LogLinker: Warning: Failed to load '/Game/Maps/Level1_BuiltData': Can't find file.
+[2021.10.08-04.04.48:260][502]LogLinker: Warning: [AssetLog] E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\GDS212_Brief1\GDS212_Brief1\Content\Maps\Level1.umap: Failed to load '/Game/Maps/Level1_BuiltData': Can't find file.
+[2021.10.08-04.04.48:260][502]LoadErrors: Failed to load /Game/Maps/Level1_BuiltData.Level1_BuiltData Referenced by PersistentLevel
+[2021.10.08-04.04.48:289][502]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2021.10.08-04.04.48:290][502]LogAIModule: Creating AISystem for world Level1
+[2021.10.08-04.04.48:290][502]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.10.08-04.04.48:293][502]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.10.08-12.04.48
+[2021.10.08-04.04.48:293][502]LogWorld: Bringing up level for play took: 0.001651
+[2021.10.08-04.04.48:294][502]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.10.08-04.04.48:294][502]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_PlayerBase_C]
+[2021.10.08-04.04.48:294][502]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_PlayerBase_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2021.10.08-04.04.48:294][502]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2021.10.08-04.04.48:294][502]LogLoad: Took 0.193665 seconds to LoadMap(/Game/Maps/Level1)
+[2021.10.08-04.04.51:300][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.08-04.04.51:300][857]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.10.08-04.04.51:300][857]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.10.08-04.04.51:300][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-04.04.51:307][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.08-04.04.51:310][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-04.04.51:328][857]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.08-04.04.51:329][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.08-04.04.51:330][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.08-04.04.51:331][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.08-04.04.51:347][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.10.08-04.04.51:362][858]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.10.08-04.04.56:868][500]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2021.10.08-04.05.03:141][182]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.08-04.05.03:147][182]LogSlate: Window 'MainMenu' being destroyed
+[2021.10.08-04.05.03:155][182]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.10.08-04.05.03:155][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-04.05.08:514][809]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenuUI.MainMenuUI
+[2021.10.08-04.05.11:584][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenuUI" FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/UI/MainMenuUI.uasset" SILENT=true
+[2021.10.08-04.05.11:595][123]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/MainMenuUIFF21BE0B46D08D4F24D441815C46D8E9.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/UI/MainMenuUI.uasset'
+[2021.10.08-04.05.11:606][123]AssetCheck: New page: Asset Save: MainMenuUI
+[2021.10.08-04.05.11:606][123]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenuUI.MainMenuUI
+[2021.10.08-04.05.52:434][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenuUI" FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/UI/MainMenuUI.uasset" SILENT=true
+[2021.10.08-04.05.52:739][959]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/MainMenuUI089670164FE203308AD85A8E9A3035B5.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/UI/MainMenuUI.uasset'
+[2021.10.08-04.05.52:757][959]AssetCheck: New page: Asset Save: MainMenuUI
+[2021.10.08-04.05.52:757][959]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenuUI.MainMenuUI
+[2021.10.08-04.05.55:691][299]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.08-04.05.55:702][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.08-04.05.55:702][299]PIE: New page: PIE session: MainMenu (8 Oct 2021, 8:05:55 pm)
+[2021.10.08-04.05.55:702][299]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2021.10.08-04.05.55:703][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000894s)
+[2021.10.08-04.05.55:704][299]LogAIModule: Creating AISystem for world MainMenu
+[2021.10.08-04.05.55:704][299]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2021.10.08-04.05.55:704][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001767s)
+[2021.10.08-04.05.55:727][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.10.08-04.05.55:728][299]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.10.08-04.05.55:728][299]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.08-04.05.55:728][299]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.08-04.05.55:728][299]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.08-04.05.55:728][299]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.08-04.05.55:728][299]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.08-04.05.55:728][299]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.08-04.05.55:728][299]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.08-04.05.55:728][299]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.08-04.05.55:728][299]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.08-04.05.55:728][299]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.08-04.05.55:728][299]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.08-04.05.55:728][299]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.08-04.05.55:733][299]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.08-04.05.55:733][299]LogAudioMixer: Display: 1: FrontRight
+[2021.10.08-04.05.55:744][299]LogAudioMixer: Display: Using Audio Device VZ27A (NVIDIA High Definition Audio)
+[2021.10.08-04.05.55:744][299]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.08-04.05.55:744][299]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.08-04.05.55:744][299]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.08-04.05.55:744][299]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.08-04.05.55:745][299]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.08-04.05.55:745][299]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.08-04.05.55:746][299]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.08-04.05.55:746][299]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.08-04.05.55:746][299]LogInit: FAudioDevice initialized.
+[2021.10.08-04.05.55:746][299]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2021.10.08-04.05.55:751][299]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.10.08-04.05.55:752][299]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.10.08-12.05.55
+[2021.10.08-04.05.55:752][299]LogWorld: Bringing up level for play took: 0.000238
+[2021.10.08-04.05.55:752][299]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.10.08-04.05.55:755][299]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2021.10.08-04.05.55:755][299]PIE: Server logged in
+[2021.10.08-04.05.55:755][299]PIE: Play in editor total start time 0.055 seconds.
+[2021.10.08-04.05.56:703][412]LogNet: Browse: /Game/Maps/Level1
+[2021.10.08-04.05.56:703][412]LogLoad: LoadMap: /Game/Maps/Level1
+[2021.10.08-04.05.56:703][412]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2021.10.08-04.05.56:704][412]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.10.08-04.05.56:704][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-04.05.56:767][412]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.08-04.05.56:770][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.10.08-04.05.56:772][412]LogLinker: Warning: [AssetLog] E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\GDS212_Brief1\GDS212_Brief1\Content\Maps\Level1.umap: Failed to load '/Game/Maps/Level1_BuiltData': Can't find file.
+[2021.10.08-04.05.56:772][412]LogLinker: Warning: [AssetLog] E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\GDS212_Brief1\GDS212_Brief1\Content\Maps\Level1.umap: Failed to load '/Game/Maps/Level1_BuiltData': Can't find file.
+[2021.10.08-04.05.56:772][412]LogLinker: Warning: [AssetLog] E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\GDS212_Brief1\GDS212_Brief1\Content\Maps\Level1.umap: Failed to load '/Game/Maps/Level1_BuiltData': Can't find file.
+[2021.10.08-04.05.56:773][412]LogLinker: Warning: Failed to load '/Game/Maps/Level1_BuiltData': Can't find file.
+[2021.10.08-04.05.56:773][412]LogLinker: Warning: Failed to load '/Game/Maps/Level1_BuiltData': Can't find file.
+[2021.10.08-04.05.56:774][412]LogLinker: Warning: [AssetLog] E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\GDS212_Brief1\GDS212_Brief1\Content\Maps\Level1.umap: Failed to load '/Game/Maps/Level1_BuiltData': Can't find file.
+[2021.10.08-04.05.56:776][412]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2021.10.08-04.05.56:776][412]LogAIModule: Creating AISystem for world Level1
+[2021.10.08-04.05.56:777][412]LogLoad: Game class is 'BP_GameModeBase_C'
+[2021.10.08-04.05.56:779][412]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2021.10.08-12.05.56
+[2021.10.08-04.05.56:779][412]LogWorld: Bringing up level for play took: 0.001081
+[2021.10.08-04.05.56:779][412]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.10.08-04.05.56:779][412]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP_PlayerBase_C]
+[2021.10.08-04.05.56:780][412]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_PlayerBase_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2021.10.08-04.05.56:780][412]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2021.10.08-04.05.56:780][412]LogLoad: Took 0.076505 seconds to LoadMap(/Game/Maps/Level1)
+[2021.10.08-04.06.01:250][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.08-04.06.01:250][943]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2021.10.08-04.06.01:251][943]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2021.10.08-04.06.01:251][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-04.06.01:256][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.08-04.06.01:259][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-04.06.01:276][943]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.08-04.06.01:276][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.08-04.06.01:277][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.08-04.06.01:279][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.08-04.06.01:281][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.10.08-04.06.01:329][948]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.10.08-04.06.06:977][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.08-04.06.06:998][616]LogLinker: Warning: [AssetLog] E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\GDS212_Brief1\GDS212_Brief1\Content\Maps\Level1.umap: Failed to load '/Game/Maps/Level1_BuiltData': Can't find file.
+[2021.10.08-04.06.06:999][616]LogLinker: Warning: [AssetLog] E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\GDS212_Brief1\GDS212_Brief1\Content\Maps\Level1.umap: Failed to load '/Game/Maps/Level1_BuiltData': Can't find file.
+[2021.10.08-04.06.06:999][616]LogLinker: Warning: [AssetLog] E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\GDS212_Brief1\GDS212_Brief1\Content\Maps\Level1.umap: Failed to load '/Game/Maps/Level1_BuiltData': Can't find file.
+[2021.10.08-04.06.06:999][616]LogLinker: Warning: Failed to load '/Game/Maps/Level1_BuiltData': Can't find file.
+[2021.10.08-04.06.06:999][616]LogLinker: Warning: Failed to load '/Game/Maps/Level1_BuiltData': Can't find file.
+[2021.10.08-04.06.07:000][616]LogLinker: Warning: [AssetLog] E:\SAE\GDS212\Brief 1 - PuzzleGame - 2Player\GDS212_Brief1\GDS212_Brief1\Content\Maps\Level1.umap: Failed to load '/Game/Maps/Level1_BuiltData': Can't find file.
+[2021.10.08-04.06.07:005][616]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2021.10.08-04.06.07:005][616]Cmd: MAP LOAD FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.08-04.06.07:005][616]LightingResults: New page: Lighting Build
+[2021.10.08-04.06.07:005][616]LoadErrors: New page: Loading map: Level1.umap
+[2021.10.08-04.06.07:007][616]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.10.08-04.06.07:007][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-04.06.07:007][616]MapCheck: New page: Map Check
+[2021.10.08-04.06.07:007][616]LightingResults: New page: Lighting Build
+[2021.10.08-04.06.07:023][616]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.08-04.06.07:026][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.10.08-04.06.07:026][616]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2021.10.08-04.06.07:028][616]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.08-04.06.07:028][616]LogAIModule: Creating AISystem for world Level1
+[2021.10.08-04.06.07:048][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.10.08-04.06.07:068][616]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.08-04.06.07:068][616]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2021.10.08-04.06.07:068][616]LogFileHelpers: Loading map 'Level1' took 0.063
+[2021.10.08-04.06.16:587][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.08-04.06.16:604][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.10.08-04.06.16:643][734]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/Level179B6374F4E25AD51EDC97A916DB1841F.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/Level1.umap'
+[2021.10.08-04.06.16:668][734]AssetCheck: New page: Asset Save: Level1
+[2021.10.08-04.06.16:668][734]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
