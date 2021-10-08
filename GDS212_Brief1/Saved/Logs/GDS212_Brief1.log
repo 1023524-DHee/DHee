@@ -4697,3 +4697,57 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.08-05.13.53:693][878]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/Jason_Level18793E6954A460D35B1D873AF68133F08.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/Levels_Jason/Jason_Level1.umap'
 [2021.10.08-05.13.53:722][878]AssetCheck: New page: Asset Save: Jason_Level1
 [2021.10.08-05.13.53:722][878]LogContentValidation: Display: Validating World /Game/Maps/Levels_Jason/Jason_Level1.Jason_Level1
+[2021.10.08-05.14.42:720][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.10.08-05.14.42:735][842]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Levels_Jason/Jason_Level1.Jason_Level1
+[2021.10.08-05.14.42:736][842]Cmd: MAP LOAD FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/Levels_Jason/Jason_Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.08-05.14.42:736][842]LightingResults: New page: Lighting Build
+[2021.10.08-05.14.42:736][842]LoadErrors: New page: Loading map: Jason_Level1.umap
+[2021.10.08-05.14.42:737][842]LogWorld: UWorld::CleanupWorld for Jason_Level1, bSessionEnded=true, bCleanupResources=true
+[2021.10.08-05.14.42:737][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-05.14.42:737][842]MapCheck: New page: Map Check
+[2021.10.08-05.14.42:737][842]LightingResults: New page: Lighting Build
+[2021.10.08-05.14.42:749][842]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.08-05.14.42:752][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.10.08-05.14.42:758][842]LogAudio: Display: Audio Device (ID: 1) registered with world 'Jason_Level1'.
+[2021.10.08-05.14.42:759][842]LogAIModule: Creating AISystem for world Jason_Level1
+[2021.10.08-05.14.42:764][842]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.08-05.14.42:781][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.10.08-05.14.43:130][842]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.08-05.14.43:132][842]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.016ms to complete.
+[2021.10.08-05.14.43:133][842]LogFileHelpers: Loading map 'Jason_Level1' took 0.397
+[2021.10.08-05.14.45:471][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.10.08-05.14.45:495][109]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Levels_Jason/Jason_Level2.Jason_Level2
+[2021.10.08-05.14.45:495][109]Cmd: MAP LOAD FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/Levels_Jason/Jason_Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.08-05.14.45:495][109]LightingResults: New page: Lighting Build
+[2021.10.08-05.14.45:495][109]LoadErrors: New page: Loading map: Jason_Level2.umap
+[2021.10.08-05.14.45:496][109]LogWorld: UWorld::CleanupWorld for Jason_Level1, bSessionEnded=true, bCleanupResources=true
+[2021.10.08-05.14.45:496][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-05.14.45:497][109]MapCheck: New page: Map Check
+[2021.10.08-05.14.45:497][109]LightingResults: New page: Lighting Build
+[2021.10.08-05.14.45:509][109]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.08-05.14.45:512][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.10.08-05.14.45:512][109]LogAudio: Display: Audio Device (ID: 1) registered with world 'Jason_Level2'.
+[2021.10.08-05.14.45:516][109]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.08-05.14.45:516][109]LogAIModule: Creating AISystem for world Jason_Level2
+[2021.10.08-05.14.45:531][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.10.08-05.14.45:554][109]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.08-05.14.45:554][109]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
+[2021.10.08-05.14.45:554][109]LogFileHelpers: Loading map 'Jason_Level2' took 0.059
+[2021.10.08-05.15.02:030][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.10.08-05.15.02:062][670]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Levels_Jason/Jason_Level3.Jason_Level3
+[2021.10.08-05.15.02:062][670]Cmd: MAP LOAD FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/Levels_Jason/Jason_Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.08-05.15.02:063][670]LightingResults: New page: Lighting Build
+[2021.10.08-05.15.02:063][670]LoadErrors: New page: Loading map: Jason_Level3.umap
+[2021.10.08-05.15.02:064][670]LogWorld: UWorld::CleanupWorld for Jason_Level2, bSessionEnded=true, bCleanupResources=true
+[2021.10.08-05.15.02:064][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-05.15.02:064][670]MapCheck: New page: Map Check
+[2021.10.08-05.15.02:064][670]LightingResults: New page: Lighting Build
+[2021.10.08-05.15.02:076][670]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.08-05.15.02:079][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.10.08-05.15.02:079][670]LogAudio: Display: Audio Device (ID: 1) registered with world 'Jason_Level3'.
+[2021.10.08-05.15.02:084][670]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.08-05.15.02:084][670]LogAIModule: Creating AISystem for world Jason_Level3
+[2021.10.08-05.15.02:100][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.10.08-05.15.02:116][670]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.08-05.15.02:116][670]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.076ms to complete.
+[2021.10.08-05.15.02:116][670]LogFileHelpers: Loading map 'Jason_Level3' took 0.053
