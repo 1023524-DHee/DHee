@@ -1041,3 +1041,38 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.08-03.37.38:409][421]LogSlate: Window 'Jason_Level2_TD*' being destroyed
 [2021.10.08-03.37.38:410][421]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2021.10.08-03.37.38:410][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-03.54.16:508][903]LogSlate: Window 'Save Level As' being destroyed
+[2021.10.08-03.54.16:537][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.10.08-03.54.16:916][903]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/Jason_Level209F6E9B5461C8C92DF5108A04C6FA5B6.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/Jason_Level2.umap'
+[2021.10.08-03.54.16:972][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Jason_Level2_BuiltData" FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/Jason_Level2_BuiltData.uasset" SILENT=true
+[2021.10.08-03.54.17:034][903]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/Jason_Level2_BuiltDataFF08946A4363F155BFC15A948BE4EF27.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/Jason_Level2_BuiltData.uasset'
+[2021.10.08-03.54.17:043][903]LogFileHelpers: Saving map 'Jason_Level2' took 0.531
+[2021.10.08-03.54.17:047][903]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.08-03.54.17:047][903]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Jason_Level2_BuiltData.Jason_Level2_BuiltData
+[2021.10.08-03.54.17:047][903]LogContentValidation: Display: Validating World /Game/Maps/Jason_Level2.Jason_Level2
+[2021.10.08-03.54.24:306][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.10.08-03.54.26:169][711]LogSlate: Window 'Save Content' being destroyed
+[2021.10.08-03.54.26:198][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Jason_Level2_TD" FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/Jason_Level2_TD.uasset" SILENT=true
+[2021.10.08-03.54.26:220][711]LogSavePackage: Moving 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Saved/Jason_Level2_TD801E10DB44FF336683CC4D89407D051A.tmp' to 'E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/Jason_Level2_TD.uasset'
+[2021.10.08-03.54.26:357][711]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2021.10.08-03.54.26:357][711]Cmd: MAP LOAD FILE="E:/SAE/GDS212/Brief 1 - PuzzleGame - 2Player/GDS212_Brief1/GDS212_Brief1/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.08-03.54.26:357][711]LightingResults: New page: Lighting Build
+[2021.10.08-03.54.26:357][711]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.10.08-03.54.26:391][711]LogWorld: UWorld::CleanupWorld for Jason_Level2, bSessionEnded=true, bCleanupResources=true
+[2021.10.08-03.54.26:391][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.08-03.54.26:391][711]MapCheck: New page: Map Check
+[2021.10.08-03.54.26:391][711]LightingResults: New page: Lighting Build
+[2021.10.08-03.54.26:396][711]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.08-03.54.26:399][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.10.08-03.54.26:400][711]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.10.08-03.54.26:401][711]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.08-03.54.26:401][711]LogAIModule: Creating AISystem for world MainMenu
+[2021.10.08-03.54.26:409][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.10.08-03.54.26:430][711]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.08-03.54.26:430][711]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2021.10.08-03.54.26:430][711]LogFileHelpers: Loading map 'MainMenu' took 0.073
+[2021.10.08-03.54.26:451][711]AssetCheck: New page: Asset Save: Jason_Level2_TD
+[2021.10.08-03.54.26:451][711]LogContentValidation: Display: Validating PaperTileMap /Game/Maps/Jason_Level2_TD.Jason_Level2_TD
+[2021.10.08-03.54.35:504][763]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2021.10.08-03.54.35:798][763]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.10.08-03.54.36:591][764]LogSlate: Took 0.000901 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
